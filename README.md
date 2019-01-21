@@ -10,11 +10,11 @@ All Gamecube games are naitively suported on Nintendo Wii and runs even better o
 
 ### How to run
 
-Download and run as Py script. Games data is stored in a two levels dictionary file 'dic', sorted by genre and rating.
+Download and run as Py script on machine with Python 3 instalation. Games data is stored in a two levels dictionary file 'dic', sorted by genre and rating.
 
 Txt iterface provides 3 groups of functions:
 1. Summary (4): count games by genre, count words in games names, sort and prints counts.
-2. Search (2): search based on 3 criteria, print a list. 
+2. Search (2): search based on 3 criteria, print a list of recommended games. 
 3. Flow (1): implements CLI interface.
 
 ### Credits
