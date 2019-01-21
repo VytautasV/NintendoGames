@@ -1,6 +1,6 @@
 # Nintendo Wii games selector
 
-A simple working txt interface to access a througly prepared list of 100 best Nintendo Wii & Gamecube games. It is mainly intended for parents who are looking for some first games to play with their 6-10 years old children. Each game has some information about it, mainly from Gamefaq:
+A simple working txt interface to access a thoroughly prepared list of 100 best Nintendo Wii & Gamecube games. It is mainly intended for parents who are looking for some first games to play with their 6-10 years old children. Each game has some information about it, mainly from Gamefaq:
  
 1. Rating, Difficulty, Lenght, Rating minus difficulty, Age, Year made, Genre.
 2. User rating - from Metacritic.	
