@@ -6,7 +6,7 @@ A simple working txt interface to access a througly prepared list of 100 best Ni
 2. User rating - from Metacritic.	
 3. Multiplayer, Graphics, Fun, Controler, Not hard - custom data.
 
-All Gamecube games are naitively suported on Nintendo Wii and runs even better on a more powerful and all time most affordale and family friendly gaming console.  
+All Gamecube games are naitively suported on Nintendo Wii and runs even better on a more powerful, all time most affordable and family friendly gaming console.  
 
 ### How to run
 
