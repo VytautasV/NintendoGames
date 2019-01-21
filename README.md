@@ -6,15 +6,15 @@ A simple working txt interface to access a througly prepared list of 100 best Ni
 2. User rating - from Metacritic.	
 3. Multiplayer, Graphics, Fun, Controler, Not hard - custom data.
 
-All Gamecube games are naitively suported on Nintendo Wii and runs even better on a more powerful and all time most affordale and family friendly gaming console.  
+All Gamecube games are naitively suported on Nintendo Wii and runs even better on a more powerful, all time most affordable and family friendly gaming console.  
 
 ### How to run
 
-Download and run as Py script. Games data is stored in a two levels dictionary file 'dic', sorted by genre and rating.
+Download and run as Py script on machine with Python 3 instalation. Games data is stored in a two levels dictionary file 'dic', sorted by genre and rating.
 
 Txt iterface provides 3 groups of functions:
 1. Summary (4): count games by genre, count words in games names, sort and prints counts.
-2. Search (2): search based on 3 criteria, print a list. 
+2. Search (2): search based on 3 criteria, print a list of recommended games. 
 3. Flow (1): implements CLI interface.
 
 ### Credits
